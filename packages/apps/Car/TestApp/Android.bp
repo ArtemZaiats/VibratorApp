@@ -1,6 +1,6 @@
 android_app {
     name: "TestApp",
-    
+
     resource_dirs: ["res"],
     sdk_version: "current",
 
